@@ -56,3 +56,4 @@ The system expects the following data points:
 
 ---
 *Developed as part of the FastAPI Learning Journey.*
+- **Dataset Link:** `https://www.kaggle.com/datasets/usmanfarid/customer-churn-dataset-for-life-insurance-industry`
