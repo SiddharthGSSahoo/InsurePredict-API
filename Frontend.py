@@ -51,8 +51,6 @@ with st.form("prediction_form"):
 
 # Handle form submission
 if submit_button:
-    # Prepare the payload (matching the InsuranceClaimInput Pydantic model)
-    # Note: Using snake_case here as Pydantic handles the alias mapping
     payload = {
         "claim_reason": claim_reason,
         "data_confidentiality": confidentiality,
