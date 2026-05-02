@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Large Data (Optional - usually better to host elsewhere)
+# InsurenceData.csv
+
+# Models
+# final_insurance_model.pkl
+
+# VS Code
+.vscode/
